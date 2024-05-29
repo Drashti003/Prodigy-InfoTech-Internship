@@ -1,6 +1,4 @@
-![banner0](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FProdigy-InfoTech%2FSoftware-Developement-Projects&psig=AOvVaw1BT6Yalga98L2EJxWIh2BS&ust=1717066467198000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNCYuJnZsoYDFQAAAAAdAAAAABAJ)  
-
----  
+  
 ### About  
 
 Hey everyone 👋 , I am Drashti Ranpariya pursuing IT (Information Technology) currently in 6th semester.  
