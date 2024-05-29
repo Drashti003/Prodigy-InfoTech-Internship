@@ -1,4 +1,5 @@
-  
+ # Prodigy-InfoTech-Internship
+
 ### About  
 
 Hey everyone 👋 , I am Drashti Ranpariya pursuing IT (Information Technology) currently in 6th semester.  
@@ -32,5 +33,3 @@ OS Used: Linux (Debian)
 I really enjoyed and learned new things while doing the projects :)  
 
 
-
-# Prodigy-InfoTech-Internship
