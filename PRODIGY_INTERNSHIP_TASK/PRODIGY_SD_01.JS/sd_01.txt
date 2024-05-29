@@ -1,0 +1,14 @@
+<html>  
+<body>  
+<script>  
+// function to convert temperature from degree Celsius to Kelvin  
+function temp(celsius)  
+{  
+    return (celsius + 273.15);  
+}  
+    var celsius = parseFloat(prompt("Enter the value of Temperature in Celsius: "));  
+    document.write("The value of given Temperature in Kelvin (K) is = " + temp(celsius));  
+</script>  
+  
+</body>  
+</html>  
